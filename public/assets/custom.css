@@ -1,0 +1,5 @@
+
+.table td, .table th {
+    border-top: none;
+    padding: 0.3rem;
+}
